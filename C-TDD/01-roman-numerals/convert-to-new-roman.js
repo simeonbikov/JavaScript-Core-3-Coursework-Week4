@@ -31,5 +31,3 @@ function convertToNewRoman(n) {
 }
 
 module.exports = convertToNewRoman;
-
-// console.log(convertToNewRoman(44));

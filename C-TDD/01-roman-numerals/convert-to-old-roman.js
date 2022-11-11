@@ -19,5 +19,3 @@ function convertToOldRoman(n) {
 }
 
 module.exports = convertToOldRoman;
-
-// console.log(convertToOldRoman(44));
